@@ -1,0 +1,17 @@
+hr {
+  padding-top: 2px;
+  border-block-end-color: : gold;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 2px;
+  background-color: gold;
+}
+body {
+  background-color: burlywood;
+}
+h1, p {
+  text-decoration-color: orangered;
+}
+p {
+  text-align: center
+}
